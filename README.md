@@ -3,11 +3,11 @@
 
 # About the project
 
-As my first HTML & CSS project from the course that im doing.
-I though fair to commit here on GitHub, as a form to record my first step and show the world what im capable of.
- 
-The simple landscape shows the benefits of their product, the plans ( one of the plans being highlighted being reason of its good pricing ), 
-checking the state of the wished URL and a section to contact the suport.
+As my first HTML & CSS project from the course I’m taking, I thought it would be fair to commit it here on GitHub
+as a way to record my first step and show the world what I’m capable of.
+
+The simple landing page displays the benefits of the product, the available plans (with one highlighted due to its good pricing),
+a tool to check the availability of the desired URL, and a section to contact support.
 
 # Tecnologies
 - HTML
